@@ -1,8 +1,10 @@
-Contexto
+# ✈️ Dados relativos ao AirBnB no Concelho do Porto de 2020
+
+🧠 **Contexto**
 
 Este projeto foi realizado no ambito da cadeira Programação e Algoritmos II do curso de CDM, e tem como objetivo a aprendizagem de metodos de ciencias de dados.
 
- Bibliografia
+ **💻 Bibliografia**
 
 Python Libraries
 Dython - https://github.com/shakedzy/dython
@@ -23,9 +25,13 @@ Criação de gráficos e visualizações de dados
 GeoPandas - https://geopandas.org/en/stable/
 Manipulação de dados geográficos
 
- Estrutura
+ 🧱 **Estrutura**
+O repositório está organizado da seguinte forma
 
- API’s usados – notas técnicas
+- Concelhos
+- listings.csv
+
+ ⚙️ **API’s usados – notas técnicas**
 
 Inside AirBnB
 http://insideairbnb.com/get-the-data/
